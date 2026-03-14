@@ -1,6 +1,6 @@
 # Ethical Hacking Basic
 
-Chhota sa educational repo for learning how common security concepts work in a safe, authorized lab environment.
+Small educational repo for learning how common security concepts work in a safe, authorized lab environment.
 
 ## What's inside
 - `increption.py`: RC4 encryption/decryption toy example (string demo).
